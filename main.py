@@ -1,5 +1,5 @@
 #WRITE YOUR CODE IN THIS FILE
-def Woof():
-    return "Woof"
+def woof():
+    return "woof"
 
-print(Woof())
+print(woof())
